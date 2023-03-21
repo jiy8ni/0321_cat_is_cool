@@ -39,18 +39,22 @@ html {
   
   table {
     margin-left: 20px;
+    background-color:cadetblue;
   }
   
   th {
     padding: 10px;
     border-bottom: 1px dashed;
+    background-color: aquamarine;
   }
   
   td {
     padding: 10px;
+    background-color: aqua;
   }
   
   img {
+    opacity : 0.5;
     display: block;
     margin: 0 auto;
     box-shadow: 7px 7px 1px black;
